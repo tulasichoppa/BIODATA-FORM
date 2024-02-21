@@ -1,0 +1,55 @@
+body {
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+form {
+    border: 2px solid aqua;
+    width: 45%;
+
+    text-align: left;
+    margin-left: 300px;
+}
+
+.vpst {
+    margin-left: 140px;
+    margin-bottom: 50px;
+}
+
+.vpst h1 {
+    color: navy;
+
+}
+
+.vpst label {
+    color: palevioletred;
+
+}
+
+.vpst input {
+    border: 1px solid red;
+    
+
+}
+
+.vpst input {
+
+    color: blue;
+
+}
+
+.vpst textarea {
+    color: orangered;
+    border: 1px solid red;
+}
+
+.vpst button {
+    color: brown;
+    background-color: rgb(122, 228, 193);
+}
+
+.vpst p {
+    color: green;
+
+}
